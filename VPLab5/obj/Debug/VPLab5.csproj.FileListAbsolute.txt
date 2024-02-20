@@ -1,0 +1,16 @@
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\bin\Debug\VPLab5.exe.config
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\bin\Debug\VPLab5.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\bin\Debug\VPLab5.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.csproj.AssemblyReference.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\MainWindow.g.cs
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\App.g.cs
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5_MarkupCompile.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5_MarkupCompile.lref
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\MainWindow.baml
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.g.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.Properties.Resources.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.csproj.GenerateResource.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab5\VPLab5\VPLab5\obj\Debug\VPLab5.pdb
